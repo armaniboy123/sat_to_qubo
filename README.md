@@ -1,6 +1,6 @@
 # SAT-to-QUBO
 
-A Python framework for translating Boolean satisfiability problems over **categorical, finite-domain variables** into **Quadratic Unconstrained Binary Optimization (QUBO)** formulations, suitable for quantum annealing hardware or classical simulated annealing.
+A Python framework for translating Boolean satisfiability problems over **categorical, finite-domain variables** into **Quadratic Unconstrained Binary Optimization (QUBO)** formulations, suitable for classical simulated annealing.
 
 ## Repository Structure
 
