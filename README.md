@@ -1,1 +1,0 @@
-# sat_to_qubo
